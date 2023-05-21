@@ -1,0 +1,4 @@
+scikit-llm
+streamlit
+python-dotenv
+pandas
